@@ -1,0 +1,2 @@
+# ssocr
+Scan Snap OCR
